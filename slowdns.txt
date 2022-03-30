@@ -1,0 +1,5 @@
+SlowDNS Details:
+
+SlowDNS Host:
+SlowDNS Port:
+Public Key:
