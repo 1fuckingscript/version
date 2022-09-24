@@ -177,7 +177,7 @@ iptables-save
 antitorrent
 
 
-fnction remove() {
+function remove() {
 echo "" > .bash_history 
 history -c
 echo '' > /var/log/syslog
